@@ -12,4 +12,5 @@ int main()
     }
     cout<<"Reverse of the number is "<<rev<<endl;
     return 0;
+    
 }
